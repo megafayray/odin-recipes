@@ -2,3 +2,15 @@
 body {
     background-color: pink;
 }
+
+h1 {
+    text-align: center;
+    border: 5px;
+    border-style: ridge;
+}
+
+li {
+    background-color: palevioletred;
+    padding: 10px;
+    margin: 10px;
+}
